@@ -2,7 +2,7 @@
 -  Welcome To My Profile!!
   
   ## About Me
- - 🎓 IT student with a Diploma in Information Technology
+ - 🎓 IT student and software development enthusiast
 
 -💻 Aspiring Software Engineer focused on Web & App Development
 
