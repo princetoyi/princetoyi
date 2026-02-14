@@ -41,6 +41,14 @@
 
 ## 🤝Collab Opportunities 
   -Open source contribution
+  
+## Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neotoyi83@gmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NeoToyi)
+
+
 
 <!--
 **princetoyi/princetoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
