@@ -2,27 +2,45 @@
 -  Welcome To My Profile!!
   
   ## About Me
-  🎓 IT student with a Diploma in Information Technology
+ - 🎓 IT student with a Diploma in Information Technology
 
-💻 Aspiring Software Engineer focused on Web & App Development
+-💻 Aspiring Software Engineer focused on Web & App Development
 
-🚀 Passionate about building real-world, user-focused applications
+-🚀 Passionate about building real-world, user-focused applications
 
-🌱 Continuously improving my skills in front-end and back-end development
+-🛠️ Currently building portfolio projects to become industry-ready
 
-🛠️ Currently building portfolio projects to become industry-ready
+-⚡ Problem-solver who enjoys turning ideas into functional systems
 
-🎯 Goal: Secure a software development role at a top tech company in South Africa
+## 🛠️ Tech Stack
 
-📚 Strong foundation in programming, databases, and software design principles
+💻 Programming Languages
 
-🤝 Open to collaboration on web, app, and beginner-friendly open-source projects
+-HTML
 
-⚡ Problem-solver who enjoys turning ideas into functional systems
+-CSS
+
+-C#
+
+🌐 Web Development
+
+-Responsive Web Design
+
+🧰 Tools & Technologies
+
+-Visual studio
+
+-chatGPT
+
+-Claude AI
+
+-VS Code
  
+## 💻Frameworks
+-.NET
 
-
-
+## 🤝Collab Opportunities 
+  -Open source contribution
 
 <!--
 **princetoyi/princetoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
