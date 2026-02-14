@@ -1,8 +1,25 @@
 ## Hello! 
 -  Welcome To My Profile!!
   
-- 🔭 I’m currently working on building responsive websites.
+  ## About Me
+  🎓 IT student with a Diploma in Information Technology
 
+💻 Aspiring Software Engineer focused on Web & App Development
+
+🚀 Passionate about building real-world, user-focused applications
+
+🌱 Continuously improving my skills in front-end and back-end development
+
+🛠️ Currently building portfolio projects to become industry-ready
+
+🎯 Goal: Secure a software development role at a top tech company in South Africa
+
+📚 Strong foundation in programming, databases, and software design principles
+
+🤝 Open to collaboration on web, app, and beginner-friendly open-source projects
+
+⚡ Problem-solver who enjoys turning ideas into functional systems
+ 
 
 
 
