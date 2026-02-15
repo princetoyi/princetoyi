@@ -2,7 +2,7 @@
 -  Welcome To My Profile!!
   
   ## About Me
- - 🎓 IT student and software development enthusiast
+  - 🎓 IT student and software development enthusiast
 
 -💻 Aspiring Software Engineer focused on Web & App Development
 
@@ -11,6 +11,16 @@
 -🛠️ Currently building portfolio projects to become industry-ready
 
 -⚡ Problem-solver who enjoys turning ideas into functional systems
+
+##  Current Focus
+
+- Learning Dart 
+- Building and improving my personal portfolio website  
+- Practicing HTML and CSS to improve my front-end skills  
+- Creating real-world projects to grow my experience  
+- Writing clean and organized code  
+- Preparing myself for a career in Software Engineering
+  
 
 ## 🛠️ Tech Stack
 
