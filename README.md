@@ -14,9 +14,8 @@
 
 ##  Current Focus
 
-- Learning Dart 
-- Building and improving my personal portfolio website  
-- Practicing HTML and CSS to improve my front-end skills  
+- Software Development Intern
+- Building and improving my personal portfolio website    
 - Creating real-world projects to grow my experience  
 - Writing clean and organized code  
 - Preparing myself for a career in Software Engineering
